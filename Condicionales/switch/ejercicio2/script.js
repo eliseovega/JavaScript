@@ -1,4 +1,4 @@
-/*Desarrolle una app Js que pida al usuario dos numero y una opcion del menu 1.suma 2.resta 
+    qxc/*Desarrolle una app Js que pida al usuario dos numero y una opcion del menu 1.suma 2.resta 
 3.multiplicacion y 4.division. calcule la operacion y la muestre Si se introduce un
  valor que no corresponda a una opcion a operar, se le mostrará un mensaje al usuario.*/
 //Definir Variables
